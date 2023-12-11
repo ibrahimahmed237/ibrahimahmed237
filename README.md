@@ -11,4 +11,4 @@ I'm Ibrahim Ahmed, a passionate computer science student with a keen interest in
 
 🔍 **Available for Opportunities:** Currently seeking new challenges. Feel free to reach out for collaboration or job opportunities!
 
-📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/ibrahim-ahmed-ib) Or [Email](mailto:ibrahim3hmedib@gmail.com)!
+📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/ibrahim-ahmed-ib) Or [Email](mailto:ibrahimahmed23j@gmail.com)!
