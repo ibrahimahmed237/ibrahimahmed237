@@ -10,4 +10,4 @@
 
 🔍 **Available for Opportunities:** Currently seeking new challenges. Feel free to reach out for collaboration or job opportunities!
 
-📫 Connect with me on [LinkedIn]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/ibrahim-ahmed-ib) and [Email](ibrahim3hmedib@gmail.com)!
+📫 Connect with me on [LinkedIn]([https://www.linkedin.com/in/ibrahim-ahmed-ib]) Or [Email](ibrahim3hmedib@gmail.com)!
