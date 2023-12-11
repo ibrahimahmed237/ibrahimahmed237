@@ -1,4 +1,5 @@
 ### Hi there 👋
+I'm Ibrahim Ahmed, a passionate computer science student with a keen interest in backend development and a knack for solving complex programming challenges. Here's a bit about me:
 
 ### Computer Science Student | Backend Developer
 
@@ -10,4 +11,4 @@
 
 🔍 **Available for Opportunities:** Currently seeking new challenges. Feel free to reach out for collaboration or job opportunities!
 
-📫 Connect with me on [LinkedIn]([https://www.linkedin.com/in/ibrahim-ahmed-ib]) Or [Email](ibrahim3hmedib@gmail.com)!
+📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/ibrahim-ahmed-ib) Or [Email](mailto:ibrahim3hmedib@gmail.com)!
