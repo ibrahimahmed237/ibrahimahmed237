@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-I'm
 <h1 align="center"><strong>Ibrahim Ahmed Mohammed</strong></h1>
 <h3 align="center">Software Engineer | Backend Developer</h3>
 
