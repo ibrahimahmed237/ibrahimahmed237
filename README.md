@@ -2,7 +2,9 @@
 <h3 align="center">Software Engineer | Backend Developer</h3>
 
 <p align="center">
-  Developing engaging digital platforms and resolving real-life problems using code.<br>
+  Developing engaging digital platforms and resolving real-life problems using code.
+
+  
   <a href="https://linkedin.com/in//in/ibrahim-ahmed-ib">
     <img src="https://camo.githubusercontent.com/4b86e7f8b383ea43a2c64d523d13da1eeb477f3e5b37cd33df3dc642d7c180ae/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d436f6e6e6563742d626c75653f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e" alt="LinkedIn" />
   </a>
