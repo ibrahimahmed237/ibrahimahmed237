@@ -1,4 +1,4 @@
-<h1 "center">Ibrahim Ahmed Mohammed</h1>
+<h1 class="center">Ibrahim Ahmed Mohammed</h1>
 
 <hr>
 
