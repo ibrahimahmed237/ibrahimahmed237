@@ -5,10 +5,10 @@
   Developing engaging digital platforms and resolving real-life problems using code.🚀
   <br><br>
   <a href="https://linkedin.com/in/ibrahim-ahmed-ib">
-    <img src="https://camo.githubusercontent.com/4b86e7f8b383ea43a2c64d523d13da1eeb477f3e5b37cd33df3dc642d7c180ae/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d436f6e6e6563742d626c75653f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
   <a href="mailto:ibrahimahmed23j@gmail.com">
-    <img src="https://camo.githubusercontent.com/8a07079de195778dc77225ef9e02346766e49a2543cb302298990bc6f5eb52af/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f456d61696c2d436f6e746163742d7265643f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c" alt="Email" />
+  <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email" />
   </a>
 </p>
 <hr>
