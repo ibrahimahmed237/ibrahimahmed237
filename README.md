@@ -14,7 +14,7 @@
 <hr>
 
 ### 👨&zwj;💻 About Me:
-I’m Graduating Computer Science student with a strong foundation in backend development and a keen interest in full-stack development. Possesses experience building real-world backend applications with secure authentication, data management, and robust functionalities. Currently expanding skillset by learning TypeScript. Eager to leverage problem-solving skills and contribute to a challenging role that allows me to grow as a full-stack developer. Here's a bit about me:
+I’m a Junior Software Engineer with a strong foundation in backend development. I have experience in building real-world backend applications with secure authentication, data management, and robust functionalities. I am eager to leverage my problem-solving skills and contribute to a challenging role that will allow me to grow as a software engineer. Additionally, I am enthusiastic about learning new technologies and acquiring new skills to stay at the forefront of the industry. Here's a bit about me:
 
 🌐 Backend Enthusiast: Passionate about server-side development and API design.
 
