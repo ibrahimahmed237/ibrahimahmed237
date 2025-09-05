@@ -1,5 +1,5 @@
 <h1 align="center"><strong>Ibrahim Ahmed Mohammed</strong></h1>
-<h3 align="center">Software Engineer | Backend Developer</h3>
+<h3 align="center">Software Engineer</h3>
 
 <p align="center">
   Developing engaging digital platforms and resolving real-life problems using code.🚀
