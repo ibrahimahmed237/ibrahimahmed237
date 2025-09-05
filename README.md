@@ -14,13 +14,7 @@
 <hr>
 
 ### 👨&zwj;💻 About Me:
-I’m a Junior Software Engineer with a strong foundation in backend development. I have experience in building real-world backend applications with secure authentication, data management, and robust functionalities. I am eager to leverage my problem-solving skills and contribute to a challenging role that will allow me to grow as a software engineer. Additionally, I am enthusiastic about learning new technologies and acquiring new skills to stay at the forefront of the industry. Here's a bit about me:
-
-🌐 Backend Enthusiast: Passionate about server-side development and API design.
-
-📚 Currently Learning: Actively working on side projects to gain practical experience and exploring new technologies.
-
-🔍 Available for Opportunities: Currently seeking new challenges. Feel free to reach out for collaboration or job opportunities!
+I’m Ibrahim, a Software Engineer passionate about designing and building systems that are scalable, reliable, and impactful. I enjoy tackling challenging problems, analyzing how systems fit together, and approaching software as thoughtful design rather than just code. Alongside backend engineering, I’ve worked on projects that use LLMs and intelligent agents, exploring how AI can be integrated into real-world applications. Right now, I’m deepening my knowledge in system design and architecture, with a focus on moving beyond coding into designing solutions that last.
 <hr>
 
 ### 🛠️ Languages and Tools:
