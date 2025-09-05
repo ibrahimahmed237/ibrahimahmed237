@@ -14,7 +14,7 @@
 <hr>
 
 ### 👨&zwj;💻 About Me:
-I’m Ibrahim, a Software Engineer passionate about designing and building systems that are scalable, reliable, and impactful. I enjoy tackling challenging problems, analyzing how systems fit together, and approaching software as thoughtful design rather than just code. Alongside backend engineering, I’ve worked on projects that use LLMs and intelligent agents, exploring how AI can be integrated into real-world applications. Right now, I’m deepening my knowledge in system design and architecture, with a focus on moving beyond coding into designing solutions that last.
+Hi 👋 I’m Ibrahim, a Software Engineer passionate about designing and building systems that are scalable, reliable, and impactful. I enjoy tackling challenging problems, analyzing how systems fit together, and approaching software as thoughtful design rather than just code. Alongside backend engineering, I’ve worked on projects that use LLMs and intelligent agents, exploring how AI can be integrated into real-world applications. Right now, I’m deepening my knowledge in system design and architecture, with a focus on moving beyond coding into designing solutions that last.
 <hr>
 
 ### 🛠️ Languages and Tools:
