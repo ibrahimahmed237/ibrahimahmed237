@@ -7,7 +7,7 @@
   <a href="https://linkedin.com/in/ibrahim-ahmed-ib">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
-  <a href="mailto:ibrahimahmed23j@gmail.com">
+  <a href="mailto:ibrahim.ahmed.iam@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email" />
   </a>
 </p>
