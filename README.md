@@ -13,20 +13,18 @@
 
 ### About me
 
-I'm a software engineer at **Rabbit** (quick commerce, Egypt), working mostly on the backend. I own services from design to production: REST APIs, relational data models, Kafka pipelines, Redis and background jobs, plus the React screens on top when a feature needs them.
+I'm a software engineer at **Rabbit** (quick commerce, Egypt), working mostly on the backend. I own services from design to production: APIs, data models, event-driven pipelines, background jobs, and the monitoring around them. When a feature needs it, I also build the frontend.
 
-- Built a **demand planning platform** end to end and its purchase-order engine (NestJS, React, BigQuery, S3).
-- Built **event-driven** inventory allocation on Kafka, and made ticketing and notifications **idempotent** under concurrent load.
-- Shipped a **multi-agent support bot** (LangGraph, FastAPI, pgvector RAG) and an Arabic WhatsApp flow with an LLM vision pipeline.
-- I care about correctness under concurrency, automated tests, clean architecture and good monitoring.
+I also build applied AI as production services: LLM agents, retrieval (RAG), and vision pipelines.
 
-Before Rabbit I was a backend engineer at **Numinix** (GraphQL, gRPC, payments). ECPC finals qualifier (2022, 2023).
+Before Rabbit I was a backend engineer at **Numinix**, working on APIs and payments. ECPC finals qualifier (2022, 2023).
 
----
+What I care about:
 
-### Featured project
-
-**[Mawrid](https://github.com/ibrahimahmed237/mawrid)**: a buyer-side procure-to-pay API for Saudi Arabia. It covers approval matrices, sealed RFQs, purchase orders, ZATCA e-invoice checks and a three-way match, plus signed ERP webhooks and AI-assisted invoice reading. Built with .NET 10, EF Core, SQL Server, Hangfire and SignalR, and tested against real SQL Server with Testcontainers.
+- Systems that stay correct under concurrency and retries
+- Clean architecture and code that is easy to change
+- Automated tests and CI/CD
+- Owning what runs in production
 
 ---
 
